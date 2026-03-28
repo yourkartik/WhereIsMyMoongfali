@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
         video.style.opacity = 1;
         yes.textContent = "@YourKartik";
         toggleVideoPlayback();
-        alert('I love you tooo meri jaan mera babyyy !💕😍💖');
+        alert('I like you tooo meri moongfali 😍😘');
        
     });
     // Add click event listener to the button
