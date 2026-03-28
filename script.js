@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
     yes.addEventListener('click', () => {
         const video= document.querySelector('.background-video');
         video.style.opacity = 1;
-        yes.textContent = "@YourKartik";
+        yes.textContent = "YourKartikBaBy";
         toggleVideoPlayback();
         alert('I like you tooo meri moongfali 😍😘');
        
